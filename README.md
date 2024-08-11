@@ -8,19 +8,21 @@ This repository offers a carefully curated curriculum tailored to different leve
 
 ## Table of Contents
 
+Here’s the updated Table of Contents reflecting the new sections and organization:
+
+---
+
+## Table of Contents
+
 - [BLEU Overview](#bleu-overview)
 - [Course Schedules](#course-schedules)
   - [GAMA - For Normal Learners](#gama---for-normal-learners)
   - [BETA - For Aspiring Software Engineers](#beta---for-aspiring-software-engineers)
   - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
 - [BLEU: Recommended Lifestyle Guide](#bleu-recommended-lifestyle-guide)
-  - [Cultivating a Successful BLEU Lifestyle](#cultivating-a-successful-bleu-lifestyle)
-  - [Preparing for Your Weekly BLEU Meeting](#preparing-for-your-weekly-bleu-meeting)
 
 ---
-Here’s the complete README for the BLEU repository, incorporating the "Cultivating a Successful BLEU Lifestyle" section:
 
----
 
 # BLEU - Building Learning Exploring Uniting
 
@@ -199,5 +201,3 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **Open-Source Your Work**: Embrace the spirit of open source. Share your projects on GitHub, contributing to a wider community. Building in public not only showcases your work but also invites feedback and collaboration.
 - **Contribute to the Community**: Take an active role in the BLEU community. Help others by answering questions, sharing your experiences, and mentoring peers. In doing so, you reinforce your own knowledge and build lasting connections.
 
----
-Let me know if you'd like to make any adjustments or if there's anything else you'd like to add!
