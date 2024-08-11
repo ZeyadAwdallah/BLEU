@@ -4,6 +4,7 @@
   - [GAMA - For Normal Learners](#gama---for-normal-learners)
   - [BETA - For Aspiring Software Engineers](#beta---for-aspiring-software-engineers)
   - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
+  - [Supplemental Resources](#Supplemental-Resources)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
   
 ---
@@ -164,6 +165,11 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **Project**: Choose one of the following:
   - Develop a real-time analytics platform.
   - Build a scalable data pipeline.
+---
+
+# Supplemental Resources
+- **Open DSA Book:** Use this online resource for additional practice problems in DSA.
+- **3Blue1Brown:** Enhance your understanding of mathematical concepts relevant to computer science with these engaging video lectures.
 
 ---
 
