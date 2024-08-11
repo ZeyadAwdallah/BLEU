@@ -14,12 +14,12 @@ Here’s the updated Table of Contents reflecting the new sections and organizat
 
 ## Table of Contents
 
-- [BLEU Overview](#bleu-overview)
+- [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
 - [Course Schedules](#course-schedules)
   - [GAMA - For Normal Learners](#gama---for-normal-learners)
   - [BETA - For Aspiring Software Engineers](#beta---for-aspiring-software-engineers)
   - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
-- [BLEU: Recommended Lifestyle Guide](#bleu-recommended-lifestyle-guide)
+- [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
 
 ---
 
@@ -182,7 +182,7 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 
 ---
 
-## Cultivating a Successful BLEU Lifestyle
+# Cultivating a Successful BLEU Lifestyle
 
 ### Learning Queue
 - **Plan Your Learning**: Treat learning as a part of your daily routine. Each week, set clear, achievable goals, breaking down course content into bite-sized tasks. Dedicate focused blocks of time for lectures, readings, and hands-on practice.
