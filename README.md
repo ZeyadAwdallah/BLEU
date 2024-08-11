@@ -17,6 +17,8 @@ This repository offers a carefully curated curriculum tailored to different leve
 
 Join our Discord community to connect with like-minded individuals, participate in study groups, and share your progress. BLEU is more than just a learning resource—it's a community dedicated to Building, Learning, Exploring, and Uniting.
 
+ [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AvVVMkf96C)
+ 
 ---
 # Course Schedules
 
