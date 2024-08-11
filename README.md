@@ -1,4 +1,4 @@
-## Table of Contents:
+# Table of Contents:
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
 - [Course Schedules](#course-schedules)
   - [GAMA - For Normal Learners](#gama---for-normal-learners)
@@ -8,7 +8,6 @@
   
 ---
 
-
 # BLEU - Building Learning Exploring Uniting
 
 Welcome to BLEU, a vibrant community and a structured learning path designed to cater to different goals in software engineering. Whether you're just beginning your journey, striving to become a professional software engineer, or pushing the boundaries of your knowledge, BLEU has a plan for you.
@@ -17,9 +16,10 @@ This repository offers a carefully curated curriculum tailored to different leve
 
 Join our Discord community to connect with like-minded individuals, participate in study groups, and share your progress. BLEU is more than just a learning resource—it's a community dedicated to Building, Learning, Exploring, and Uniting.
 
-## Course Schedules
+---
+# Course Schedules
 
-### GAMA - For Normal Learners
+## GAMA - For Normal Learners
 
 The GAMA schedule is designed for those who are just getting started with computer science. This schedule provides a solid foundation in essential topics, ensuring you have the skills necessary to explore more advanced concepts later on.
 
@@ -67,7 +67,7 @@ The GAMA schedule is designed for those who are just getting started with comput
 
 ---
 
-### BETA - For Aspiring Software Engineers
+## BETA - For Aspiring Software Engineers
 
 The BETA schedule is for those who need to become proficient software engineers. This track goes deeper into core computer science topics, preparing you for real-world challenges.
 
@@ -114,7 +114,7 @@ The BETA schedule is for those who need to become proficient software engineers.
 
 ---
 
-### ALPHA - For Hardcore Software Engineers
+## ALPHA - For Hardcore Software Engineers
 
 The ALPHA schedule is for those who want to push the boundaries and tackle the most challenging concepts in computer science. This track is intense and requires a deep commitment.
 
