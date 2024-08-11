@@ -1,4 +1,5 @@
 ---
+
 ## Table of Contents
 
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
@@ -7,6 +8,7 @@
   - [BETA - For Aspiring Software Engineers](#beta---for-aspiring-software-engineers)
   - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
+  
 ---
 
 
