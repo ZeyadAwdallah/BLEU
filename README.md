@@ -1,17 +1,4 @@
-# BLEU - Building Learning Exploring Uniting
 ---
-Welcome to **BLEU**, a vibrant community dedicated to **Building**, **Learning**, **Exploring**, and **Uniting**. Whether you're just beginning your journey in software engineering, striving to become a professional, or pushing the boundaries of your knowledge, BLEU has a structured learning path designed just for you.
-
-This repository offers a carefully curated curriculum tailored to different levels of learners. Pick the schedule that best aligns with your goals and dive into a world of computer science and software engineering.
-
----
-
-## Table of Contents
-
-Here’s the updated Table of Contents reflecting the new sections and organization:
-
----
-
 ## Table of Contents
 
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
@@ -20,7 +7,6 @@ Here’s the updated Table of Contents reflecting the new sections and organizat
   - [BETA - For Aspiring Software Engineers](#beta---for-aspiring-software-engineers)
   - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
-
 ---
 
 
