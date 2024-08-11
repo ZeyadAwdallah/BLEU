@@ -1,7 +1,4 @@
----
-
-## Table of Contents
-
+## Table of Contents:
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
 - [Course Schedules](#course-schedules)
   - [GAMA - For Normal Learners](#gama---for-normal-learners)
