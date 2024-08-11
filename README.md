@@ -80,6 +80,8 @@ The GAMA schedule is designed for those who are just getting started with comput
   - Develop a real-time analytics platform.
   - Build a scalable data pipeline.
 
+---
+
 ### BETA - For Aspiring Software Engineers
 
 The BETA schedule is for those who need to become proficient software engineers. This track goes deeper into core computer science topics, preparing you for real-world challenges.
@@ -124,6 +126,8 @@ The BETA schedule is for those who need to become proficient software engineers.
 - **Project**: Choose one of the following:
   - Develop a real-time analytics platform.
   - Build a scalable data pipeline.
+
+---
 
 ### ALPHA - For Hardcore Software Engineers
 
@@ -176,6 +180,8 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
   - Develop a real-time analytics platform.
   - Build a scalable data pipeline.
 
+---
+
 ## Cultivating a Successful BLEU Lifestyle
 
 ### Learning Queue
@@ -183,9 +189,7 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **Resource Review**: Before each weekly sync-up, dive into the materials. Annotate, highlight key concepts, and pinpoint areas where you need more clarity. This proactive approach ensures you're prepared to maximize your learning sessions.
 
 ### Project Queue
-- **Build Continuously**: Embrace a project-oriented mindset. Keep a rolling list of projects aligned with your interests and career goals. Continuously building alongside the curriculum not only sharpens your skills but also bridges the gap between theory and
-
- practice.
+- **Build Continuously**: Embrace a project-oriented mindset. Keep a rolling list of projects aligned with your interests and career goals. Continuously building alongside the curriculum not only sharpens your skills but also bridges the gap between theory and practice.
 - **Use Version Control**: Adopt version control, such as Git, as a non-negotiable part of your workflow. This not only tracks your project's evolution but also simplifies collaboration and enables you to recover from mistakes effortlessly.
 - **Document & Share**: Keep a detailed development log. Reflect on your progress, note the challenges, and document your solutions. Sharing this journey with the community not only helps others but also solidifies your own learning.
 
