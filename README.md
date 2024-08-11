@@ -195,4 +195,6 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 ### Building in Public & Helping Others
 - **Open-Source Your Work**: Embrace the spirit of open source. Share your projects on GitHub, contributing to a wider community. Building in public not only showcases your work but also invites feedback and collaboration.
 - **Contribute to the Community**: Take an active role in the BLEU community. Help others by answering questions, sharing your experiences, and mentoring peers. In doing so, you reinforce your own knowledge and build lasting connections.
-
+  
+### Join the Conversation
+- **Don’t forget to use our hashtag ##300_days_of_BLEU to share your journey and connect with the community!**
