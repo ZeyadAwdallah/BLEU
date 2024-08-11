@@ -15,9 +15,7 @@ Welcome to BLEU, a vibrant community and a structured learning path designed to 
 
 This repository offers a carefully curated curriculum tailored to different levels of learners. Choose the schedule that best aligns with your goals and follow the outlined path to deepen your understanding of computer science and software engineering.
 
-Join our Discord community to connect with like-minded individuals, participate in study groups, and share your progress. BLEU is more than just a learning resource—it's a community dedicated to Building, Learning, Exploring, and Uniting.
-
- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AvVVMkf96C)
+Join our Discord community to connect with like-minded individuals, participate in study groups, and share your progress. BLEU is more than just a learning resource—it's a community dedicated to Building, Learning, Exploring, and Uniting: [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AvVVMkf96C)
  
 ---
 # Course Schedules
