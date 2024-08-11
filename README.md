@@ -197,4 +197,4 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **Contribute to the Community**: Take an active role in the BLEU community. Help others by answering questions, sharing your experiences, and mentoring peers. In doing so, you reinforce your own knowledge and build lasting connections.
   
 ### Join the Conversation
-- **Don’t forget to use our hashtag ##300_days_of_BLEU to share your journey and connect with the community!**
+- Don’t forget to use our hashtag **##300_days_of_BLEU** to share your journey and connect with the community!
