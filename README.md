@@ -1,4 +1,5 @@
 ---
+
 # Table of Contents:
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
 - [Course Schedules](#course-schedules)
@@ -7,7 +8,7 @@
   - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
   - [Supplemental Resources](#Supplemental-Resources)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
-  
+- 
 ---
 
 <div style="text-align: center;">
