@@ -41,7 +41,7 @@ Join our Discord community to connect with like-minded individuals, participate 
 
 
 
-## GAMA - For Normal Learners
+# GAMA - For Normal Learners
 
 The GAMA schedule is designed for those who are just getting started with computer science. This schedule provides a solid foundation in essential topics, ensuring you have the skills necessary to explore more advanced concepts later on.
 
@@ -90,7 +90,7 @@ The GAMA schedule is designed for those who are just getting started with comput
 ---
 
 
-## BETA - For Aspiring Software Engineers
+# BETA - For Aspiring Software Engineers
 
 The BETA schedule is for those who need to become proficient software engineers. This track goes deeper into core computer science topics, preparing you for real-world challenges.
 
@@ -139,7 +139,7 @@ The BETA schedule is for those who need to become proficient software engineers.
 
 
 
-## ALPHA - For Hardcore Software Engineers
+# ALPHA - For Hardcore Software Engineers
 
 The ALPHA schedule is for those who want to push the boundaries and tackle the most challenging concepts in computer science. This track is intense and requires a deep commitment.
 
@@ -227,4 +227,4 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **Contribute to the Community**: Take an active role in the BLEU community. Help others by answering questions, sharing your experiences, and mentoring peers. In doing so, you reinforce your own knowledge and build lasting connections.
   
 ### Join the Conversation
-- Don’t forget to use our hashtag **##300_days_of_BLEU** to share your journey and connect with the community!
+- Don’t forget to use our hashtag **#300_days_of_BLEU** to share your journey and connect with the community!
