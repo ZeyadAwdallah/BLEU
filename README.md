@@ -1,9 +1,3 @@
-<div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="/B.png" alt="cover" style="width: 3000px;">
-  </a>
-</div>
-
 ---
 # Table of Contents:
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
@@ -14,6 +8,14 @@
   - [Supplemental Resources](#Supplemental-Resources)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
   
+---
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="/B.png" alt="cover" style="width: 3000px;">
+  </a>
+</div>
+
 ---
 
 # BLEU - Building Learning Exploring Uniting
