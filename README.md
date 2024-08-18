@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="/b.gif" alt="cover" style="width: 3000px;">
+    <img src="/B.gif" alt="cover" style="width: 3000px;">
   </a>
 </div>
 
