@@ -1,11 +1,10 @@
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="/B.png" alt="cover" style="width: 3000px;">
+    <img src="/u.png" alt="cover" style="width: 3000px;">
   </a>
 </div>
 
----
 
 # Table of Contents:
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
@@ -18,6 +17,13 @@
   
 
 ---
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="/B.png" alt="cover" style="width: 3000px;">
+  </a>
+</div>
+
 
 # BLEU - Building Learning Exploring Uniting
 
@@ -226,3 +232,10 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
   
 ### Join the Conversation
 - Don’t forget to use our hashtag **#300_days_of_BLEU** to share your journey and connect with the community!
+  
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="/u.png" alt="cover" style="width: 3000px;">
+  </a>
+</div>
+
