@@ -39,6 +39,8 @@ Join our Discord community to connect with like-minded individuals, participate 
 
 # Course Schedules
 
+
+
 ## GAMA - For Normal Learners
 
 The GAMA schedule is designed for those who are just getting started with computer science. This schedule provides a solid foundation in essential topics, ensuring you have the skills necessary to explore more advanced concepts later on.
@@ -87,6 +89,7 @@ The GAMA schedule is designed for those who are just getting started with comput
 
 ---
 
+
 ## BETA - For Aspiring Software Engineers
 
 The BETA schedule is for those who need to become proficient software engineers. This track goes deeper into core computer science topics, preparing you for real-world challenges.
@@ -133,6 +136,8 @@ The BETA schedule is for those who need to become proficient software engineers.
   - Build a scalable data pipeline.
 
 ---
+
+
 
 ## ALPHA - For Hardcore Software Engineers
 
@@ -191,6 +196,12 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **3Blue1Brown:** Enhance your understanding of mathematical concepts relevant to computer science with these engaging video lectures.
 
 ---
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="/e.png" alt="cover" style="width: 3000px;">
+  </a>
+</div>
+
 
 # Cultivating a Successful BLEU Lifestyle
 
