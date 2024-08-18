@@ -37,8 +37,6 @@ Join our Discord community to connect with like-minded individuals, participate 
 </div>
 
 
-# Course Schedules
-
 
 
 # GAMA - For Normal Learners
