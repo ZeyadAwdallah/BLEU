@@ -30,6 +30,13 @@ Join our Discord community to connect with like-minded individuals, participate 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AvVVMkf96C)
  
 ---
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="/l.png" alt="cover" style="width: 3000px;">
+  </a>
+</div>
+
+
 # Course Schedules
 
 ## GAMA - For Normal Learners
