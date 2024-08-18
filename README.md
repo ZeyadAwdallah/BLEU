@@ -1,3 +1,10 @@
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="/B.png" alt="cover" style="width: 3000px;">
+  </a>
+</div>
+
 ---
 
 # Table of Contents:
@@ -8,14 +15,7 @@
   - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
   - [Supplemental Resources](#Supplemental-Resources)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
-- 
----
-
-<div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="/B.png" alt="cover" style="width: 3000px;">
-  </a>
-</div>
+  
 
 ---
 
