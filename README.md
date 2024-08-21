@@ -56,6 +56,9 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
   - [Open Data Structures](https://opendatastructures.org/)
   - [Neet Code Roadmap](https://neetcode.io/roadmap)
   - "Dive into design patterns"
+- **Additional Resources**:
+   - [Data Structures Easy to Advanced Course ](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+   - [Leetcode BLIND-75 Solutions](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
 - **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP and Design Patterns.
 - **Project**: Implement advanced data structures and algorithms in your preferred language and upload them to GitHub.
 
