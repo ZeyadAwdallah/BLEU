@@ -52,7 +52,11 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 
 
 **Month 1 - 2: Programming Fundamentals**
-- **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP.
+- **Books**:
+  - [Open Data Structures](https://opendatastructures.org/)
+  - [Neet Code Roadmap](https://neetcode.io/roadmap)
+  - "dive into design patterns"
+- **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP and Design Patterns.
 - **Project**: Implement advanced data structures and algorithms in your preferred language and upload them to GitHub.
 
 **Month 2 – 3.5: Computer Architecture**
@@ -61,7 +65,6 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
   - "CS:APP" (First 6 chapters)
 - **Focus**: Understand the fundamental building blocks of computers.
 - **Project**: Simulate a simple von Neumann architecture.
-- **Pacing**: ~3 chapters per week.
 
 **Month 3.5 – 5: Operating Systems**
 - **Books**:
@@ -70,7 +73,6 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
   - "Linux Kernel Development"
 - **Focus**: Learn how operating systems manage hardware resources and processes.
 - **Project**: Add features to a small kernel.
-- **Pacing**: 14 chapters per week (~150 pages).
 
 **Month 5 – 6: Languages and Compilers**
 - **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
@@ -100,9 +102,8 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 ---
 
 # Supplemental Resources
-- **Open DSA Book:** Use this online resource for additional practice problems in DSA.
-- **3Blue1Brown:** Enhance your understanding of mathematical concepts relevant to computer science with these engaging video lectures.
-
+- [Algorithms:](http://jeffe.cs.illinois.edu/teaching/algorithms/) Use this online resource for additional practice problems in Algorithms.
+- [3Blue1Brown:](https://www.youtube.com/@3blue1brown) Enhance your understanding of mathematical concepts relevant to computer science with these engaging video lectures.
 ---
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
