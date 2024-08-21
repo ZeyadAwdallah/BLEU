@@ -65,7 +65,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 **Month 2 – 3.5: Computer Architecture**
 - **Books**:
   - [Nand2Tetris](https://www.nand2tetris.org/) (First 6 chapters and projects)
-  - "CS:APP" (First 6 chapters)
+  - "Computer Systems: A Programmer's Perspective" (First 6 chapters)
 - **Focus**: Understand the fundamental building blocks of computers.
 - **Project**: Simulate a simple von Neumann architecture.
 
