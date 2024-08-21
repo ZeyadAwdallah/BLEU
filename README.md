@@ -8,7 +8,7 @@
 
 # Table of Contents:
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
-- [Course Schedules](# Schedule---For-Hardcore-Software-Engineers)
+- [Course Schedules](#Schedule---For-Hardcore-Software-Engineers)
   - [Supplemental Resources](#Supplemental-Resources)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
   
