@@ -1,4 +1,5 @@
 
+
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="/u.png" alt="cover" style="width: 3000px;">
@@ -24,17 +25,22 @@
 
 # BLEU - Building Learning Exploring Uniting
 
-Welcome to BLEU, a vibrant community and a structured learning path designed to cater to different goals in software engineering. Whether you're just beginning your journey, striving to become a professional software engineer, or pushing the boundaries of your knowledge, BLEU has a plan for you.
-
-This repository offers a carefully curated curriculum tailored to different levels of learners. Choose the schedule that best aligns with your goals and follow the outlined path to deepen your understanding of computer science and software engineering.
+Welcome to BLEU, a geeks community where we share 
+  - Our Learning journey together
+ - Progress in our tracks
+ - Our over-engineered, sick projects
+ 
+Whether you're just beginning your journey, grinding to become a professional software engineer, or enhancing your knowledge, BLEU is a place for you.
 
 Join our Discord community to connect with like-minded individuals, participate in study groups, and share your progress. BLEU is more than just a learning resource—it's a community dedicated to Building, Learning, Exploring, and Uniting.
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AvVVMkf96C)
  
+ This repository offers a **study plan** not a curriculum, we are still studying and figuring it out. This study plan will improve and change as time goes as we learn, so, You can join us on our learning journey and contribute also to this study plan.
+
 ---
 # Schedule - For Hardcore Software Engineers
-The schedule is for those who want to push the boundaries and tackle the most challenging concepts in computer science. This track is intense and requires a deep commitment.
+This schedule is for nerds who want to challenge themselves and push boundaries. This schedule *till now* is a bit toxic and unrealistic, but it's just a deadline which will be altered over the time; We're still figuring it out.
 
 
 <div style="text-align: center;">
