@@ -33,7 +33,8 @@ Join our Discord community to connect with like-minded individuals, participate 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AvVVMkf96C)
  
 ---
-# ٍSchedule - For Hardcore Software Engineers
+# Schedule - For Hardcore Software Engineers
+The schedule is for those who want to push the boundaries and tackle the most challenging concepts in computer science. This track is intense and requires a deep commitment.
 
 
 <div style="text-align: center;">
@@ -43,8 +44,6 @@ Join our Discord community to connect with like-minded individuals, participate 
 </div>
 
 
-
-The schedule is for those who want to push the boundaries and tackle the most challenging concepts in computer science. This track is intense and requires a deep commitment.
 
 **Month 1 - 2: Programming Fundamentals**
 - **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP.
