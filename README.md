@@ -8,10 +8,7 @@
 
 # Table of Contents:
 - [BLEU Overview](#BLEU---Building-Learning-Exploring-Uniting)
-- [Course Schedules](#course-schedules)
-  - [GAMA - For Normal Learners](#gama---for-normal-learners)
-  - [BETA - For Aspiring Software Engineers](#beta---for-aspiring-software-engineers)
-  - [ALPHA - For Hardcore Software Engineers](#alpha---for-hardcore-software-engineers)
+- [Course Schedules](# Schedule---For-Hardcore-Software-Engineers)
   - [Supplemental Resources](#Supplemental-Resources)
 - [Cultivating a Successful BLEU Lifestyle](#Cultivating-a-Successful-BLEU-Lifestyle)
   
@@ -36,6 +33,9 @@ Join our Discord community to connect with like-minded individuals, participate 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AvVVMkf96C)
  
 ---
+# ٍSchedule - For Hardcore Software Engineers
+
+
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="/l.png" alt="cover" style="width: 3000px;">
@@ -44,114 +44,13 @@ Join our Discord community to connect with like-minded individuals, participate 
 
 
 
+The schedule is for those who want to push the boundaries and tackle the most challenging concepts in computer science. This track is intense and requires a deep commitment.
 
-# GAMA - For Normal Learners
-
-The GAMA schedule is designed for those who are just getting started with computer science. This schedule provides a solid foundation in essential topics, ensuring you have the skills necessary to explore more advanced concepts later on.
-
-**Month 0 – 1: CS50 Course**
-- Study the introductory CS50 course, covering the basics of computer science and programming.
-- Focus on understanding fundamental concepts such as algorithms, data structures, and software design.
-- Complete course assignments and projects to solidify your understanding.
-- Participate in study group meetings to discuss key concepts and work on practical problems.
-
-**Month 1 – 2: Programming Fundamentals**
-- **Focus**: Study basic DSA concepts and other fundamental computer programming topics, such as OOP.
-- **Project**: Implement some data structures and algorithms in your preferred language and upload them to GitHub.
-- **Project 2**: Build a simple inventory tracker.
-
-**Month 2 – 3.5: Computer Architecture**
-- **Book**: "Nand2Tetris" (First 6 chapters and projects)
-- **Focus**: Understand the fundamental building blocks of computers.
-
-**Month 3.5 – 5: Operating Systems**
-- **Book**: "OS Three Easy Pieces"
-- **Focus**: Learn how operating systems manage hardware resources and processes.
-- **Project**: Implement process scheduling and memory management.
-
-**Month 5 – 6.5: Languages and Compilers**
-- **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
-- **Book**: "Crafting Interpreters"
-- **Project**: Develop a simple compiler for a toy language.
-
-**Month 6.5 – 7.5: Computer Networking**
-- **Book**: "Computer Networking: A Top-Down Approach"
-- **Focus**: Understand network protocols, layers, and security principles.
-- **Project**: Build a simple network protocol analyzer.
-
-**Month 7.5 – 8.5: Databases**
-- **Video Lectures**: UC Berkeley CS186 (Database Systems) on YouTube
-- **Reference Book**: "Database Management Systems" by Ramakrishnan
-- **Project**: Create a database with 100,000 fake records and apply learned concepts.
-
-**Month 8.5 – 10: Distributed Systems (Optional)**
-- **Book**: "Designing Data-Intensive Applications" by Martin Kleppmann
-- **Video Lectures**: MIT 6.824 Distributed Systems course on YouTube
-- **Project**: Choose one of the following:
-  - Develop a real-time analytics platform.
-  - Build a scalable data pipeline.
-
----
-
-
-# BETA - For Aspiring Software Engineers
-
-The BETA schedule is for those who need to become proficient software engineers. This track goes deeper into core computer science topics, preparing you for real-world challenges.
-
-**Month 0 – 1: Programming Fundamentals**
-- **Focus**: Study basic DSA concepts and essential computer programming topics such as OOP.
-- **Project**: Implement data structures and algorithms in your preferred language and upload them to GitHub.
-- **Project 2**: Build a Sudoku solver.
-
-**Month 1 – 2.5: Computer Architecture**
-- **Books**:
-  - "Nand2Tetris" (First 6 chapters and projects)
-  - "CS:APP" (Chapters 3, 4)
-- **Focus**: Understand the fundamental building blocks of computers.
-- **Project**: Simulate a simple von Neumann architecture.
-- **Pacing**: ~2 chapters per week.
-
-**Month 2.5 – 4: Operating Systems**
-- **Book**: "OS Three Easy Pieces"
-- **Focus**: Learn how operating systems manage hardware resources and processes.
-- **Project**: Implement process scheduling and memory management.
-- **Pacing**: 14 chapters per week (~150 pages).
-
-**Month 4 – 5.5: Languages and Compilers**
-- **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
-- **Book**: "Crafting Interpreters"
-- **Project**: Develop a simple compiler for a toy language.
-
-**Month 5.5 – 6.5: Computer Networking**
-- **Book**: "Computer Networking: A Top-Down Approach"
-- **Focus**: Understand network protocols, layers, and security principles.
-- **Project**: Build a simple network protocol analyzer.
-
-**Month 6.5 – 7.5: Databases**
-- **Video Lectures**: UC Berkeley CS186 (Database Systems) on YouTube
-- **Reference Book**: "Database Management Systems" by Ramakrishnan
-- **Project**: Create a database with 100,000 fake records and apply learned concepts.
-
-**Month 7.5 – 9: Distributed Systems**
-- **Book**: "Designing Data-Intensive Applications" by Martin Kleppmann
-- **Video Lectures**: MIT 6.824 Distributed Systems course on YouTube
-- **Project**: Choose one of the following:
-  - Develop a real-time analytics platform.
-  - Build a scalable data pipeline.
-
----
-
-
-
-# ALPHA - For Hardcore Software Engineers
-
-The ALPHA schedule is for those who want to push the boundaries and tackle the most challenging concepts in computer science. This track is intense and requires a deep commitment.
-
-**Month 0 (2 weeks): Programming Fundamentals**
+**Month 1 - 2: Programming Fundamentals**
 - **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP.
 - **Project**: Implement advanced data structures and algorithms in your preferred language and upload them to GitHub.
 
-**Month 0.5 – 2: Computer Architecture**
+**Month 2 – 3.5: Computer Architecture**
 - **Books**:
   - "Nand2Tetris" (First 6 chapters and projects)
   - "CS:APP" (First 6 chapters)
@@ -159,7 +58,7 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **Project**: Simulate a simple von Neumann architecture.
 - **Pacing**: ~3 chapters per week.
 
-**Month 2 – 3.5: Operating Systems**
+**Month 3.5 – 5: Operating Systems**
 - **Books**:
   - "Modern Operating Systems" (Reference)
   - "OS Three Easy Pieces"
@@ -168,25 +67,25 @@ The ALPHA schedule is for those who want to push the boundaries and tackle the m
 - **Project**: Add features to a small kernel.
 - **Pacing**: 14 chapters per week (~150 pages).
 
-**Month 3.5 – 4.5: Languages and Compilers**
+**Month 5 – 6: Languages and Compilers**
 - **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
 - **Book**: "Crafting Interpreters"
 - **Project**: Develop a simple compiler for a toy language.
 
-**Month 4.5 – 5.5: Computer Networking**
-- **Book**: "Computer Networking: A Top-Down Approach"
-- **Focus**: Understand network protocols, layers, and security principles.
-- **Project**: Build a simple network protocol analyzer.
-
-**Month 5.5 – 7: Databases**
+**Month 6 – 7.5: Databases**
 - **Video Lectures**: UC Berkeley CS186 (Database Systems) on YouTube
 - **Reference Book**: "Database Management Systems" by Ramakrishnan
 - **Additional Resources**:
   - "Fundamentals of Database Systems" by M. T. Özsu and P. Valduriez
   - "Red Book: SQL Server Query Processing Internal Architecture"
 - **Project**: Design and implement a mini-Database Management System (DBMS).
+  
+  **Month 7.5 – 8.5: Computer Networking**
+- **Book**: "Computer Networking: A Top-Down Approach"
+- **Focus**: Understand network protocols, layers, and security principles.
+- **Project**: Build a simple network protocol analyzer.
 
-**Month 7 – 8.5: Distributed Systems**
+**Month 8.5 – 10: Distributed Systems**
 - **Book**: "Designing Data-Intensive Applications" by Martin Kleppmann
 - **Video Lectures**: MIT 6.824 Distributed Systems course on YouTube
 - **Research Papers**: MIT Distributed Systems Research Group publications [here](http://dsrg.pdos.csail.mit.edu/papers/).
