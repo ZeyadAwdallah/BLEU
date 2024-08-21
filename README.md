@@ -55,13 +55,13 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 - **Books**:
   - [Open Data Structures](https://opendatastructures.org/)
   - [Neet Code Roadmap](https://neetcode.io/roadmap)
-  - "dive into design patterns"
+  - "Dive into design patterns"
 - **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP and Design Patterns.
 - **Project**: Implement advanced data structures and algorithms in your preferred language and upload them to GitHub.
 
 **Month 2 – 3.5: Computer Architecture**
 - **Books**:
-  - "Nand2Tetris" (First 6 chapters and projects)
+  - [Nand2Tetris](https://www.nand2tetris.org/) (First 6 chapters and projects)
   - "CS:APP" (First 6 chapters)
 - **Focus**: Understand the fundamental building blocks of computers.
 - **Project**: Simulate a simple von Neumann architecture.
@@ -76,11 +76,11 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 
 **Month 5 – 6: Languages and Compilers**
 - **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
-- **Book**: "Crafting Interpreters"
+- **Book**: [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Project**: Develop a simple compiler for a toy language.
 
 **Month 6 – 7.5: Databases**
-- **Video Lectures**: UC Berkeley CS186 (Database Systems) on YouTube
+- **Video Lectures**: [UC Berkeley CS186 (Database Systems) on YouTube](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1)
 - **Reference Book**: "Database Management Systems" by Ramakrishnan
 - **Additional Resources**:
   - "Fundamentals of Database Systems" by M. T. Özsu and P. Valduriez
@@ -94,7 +94,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 
 **Month 8.5 – 10: Distributed Systems**
 - **Book**: "Designing Data-Intensive Applications" by Martin Kleppmann
-- **Video Lectures**: MIT 6.824 Distributed Systems course on YouTube
+- **Video Lectures**: [MIT 6.824 Distributed Systems course on YouTube](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - **Research Papers**: MIT Distributed Systems Research Group publications [here](http://dsrg.pdos.csail.mit.edu/papers/).
 - **Project**: Choose one of the following:
   - Develop a real-time analytics platform.
