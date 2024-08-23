@@ -62,20 +62,22 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 - **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP and Design Patterns.
 - **Project**: Implement advanced data structures and algorithms in your preferred language and upload them to GitHub.
 
-**Month 2 – 3.5: Computer Architecture**
-- **Books**:
-  - [Nand2Tetris](https://www.nand2tetris.org/) (First 6 chapters and projects)
-  - "Computer Systems: A Programmer's Perspective" (First 6 chapters)
-- **Focus**: Understand the fundamental building blocks of computers.
-- **Project**: Simulate a simple von Neumann architecture.
-
-**Month 3.5 – 5: Operating Systems**
+**Month 2 – 3.5: Operating Systems**
 - **Books**:
   - "Modern Operating Systems" (Reference)
   - "OS Three Easy Pieces"
   - "Linux Kernel Development"
 - **Focus**: Learn how operating systems manage hardware resources and processes.
 - **Project**: Add features to a small kernel.
+
+
+**Month 3.5 – 5: Computer Architecture**
+- **Books**:
+  - [Nand2Tetris](https://www.nand2tetris.org/) (First 6 chapters and projects)
+  - "Computer Systems: A Programmer's Perspective" (First 6 chapters)
+- **Focus**: Understand the fundamental building blocks of computers.
+- **Project**: Simulate a simple von Neumann architecture.
+
 
 **Month 5 – 6: Languages and Compilers**
 - **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
