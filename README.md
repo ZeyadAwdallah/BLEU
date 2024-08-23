@@ -90,7 +90,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
   - "Red Book: SQL Server Query Processing Internal Architecture"
 - **Project**: Design and implement a mini-Database Management System (DBMS).
   
-  **Month 7.5 – 8.5: Computer Networking**
+**Month 7.5 – 8.5: Computer Networking**
 - **Book**: "Computer Networking: A Top-Down Approach"
 - **Focus**: Understand network protocols, layers, and security principles.
 - **Project**: Build a simple network protocol analyzer.
