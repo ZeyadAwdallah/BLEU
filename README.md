@@ -51,7 +51,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 
 
 
-**Month 1 - 2: Programming Fundamentals**
+**Month 1 - 2: Programming**
 - **Books**:
   - [Open Data Structures](https://opendatastructures.org/)
   - [Neet Code Roadmap](https://neetcode.io/roadmap)
