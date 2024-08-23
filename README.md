@@ -62,6 +62,8 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 - **Focus**: Revise advanced DSA concepts and core computer programming principles like OOP and Design Patterns.
 - **Project**: Implement advanced data structures and algorithms in your preferred language and upload them to GitHub.
 
+---
+
 **Month 2 – 3.5: Operating Systems**
 - **Books**:
   - "Modern Operating Systems" (Reference)
@@ -70,6 +72,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 - **Focus**: Learn how operating systems manage hardware resources and processes.
 - **Project**: Add features to a small kernel.
 
+---
 
 **Month 3.5 – 5: Computer Architecture**
 - **Books**:
@@ -78,11 +81,16 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 - **Focus**: Understand the fundamental building blocks of computers.
 - **Project**: Simulate a simple von Neumann architecture.
 
+---
+
 
 **Month 5 – 6: Languages and Compilers**
 - **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
 - **Book**: [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Project**: Develop a simple compiler for a toy language.
+
+---
+
 
 **Month 6 – 7.5: Databases**
 - **Video Lectures**: [UC Berkeley CS186 (Database Systems) on YouTube](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1)
@@ -91,11 +99,17 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
   - "Fundamentals of Database Systems" by M. T. Özsu and P. Valduriez
   - "Red Book: SQL Server Query Processing Internal Architecture"
 - **Project**: Design and implement a mini-Database Management System (DBMS).
+
+---
+
   
 **Month 7.5 – 8.5: Computer Networking**
 - **Book**: "Computer Networking: A Top-Down Approach"
 - **Focus**: Understand network protocols, layers, and security principles.
 - **Project**: Build a simple network protocol analyzer.
+
+---
+
 
 **Month 8.5 – 10: Distributed Systems**
 - **Book**: "Designing Data-Intensive Applications" by Martin Kleppmann
@@ -104,6 +118,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 - **Project**: Choose one of the following:
   - Develop a real-time analytics platform.
   - Build a scalable data pipeline.
+  - 
 ---
 
 # Supplemental Resources
