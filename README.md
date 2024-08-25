@@ -51,7 +51,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 
 
 
-### Programming
+### 1-Programming
 - **Books**:
   - [Open Data Structures](https://opendatastructures.org/)
   - [Neet Code Roadmap](https://neetcode.io/roadmap)
@@ -64,7 +64,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 
 ---
 
-### Computer Architecture
+### 2-Computer Architecture
 - **Books**:
   - [Nand2Tetris](https://www.nand2tetris.org/) (First 6 chapters and projects)
   - "Computer Systems: A Programmer's Perspective" (First 6 chapters)
@@ -73,7 +73,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
  
 ---
 
-### Operating Systems
+### 3-Operating Systems
 - **Books**:
   - "Modern Operating Systems" (Reference)
   - "OS Three Easy Pieces"
@@ -85,7 +85,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 ---
 
 
-### Languages and Compilers
+### 4-Languages and Compilers
 - **Reference Book**: "Compilers: Principles, Techniques, and Tools" (The Dragon Book)
 - **Book**: [Crafting Interpreters](https://craftinginterpreters.com/)
 - **Project**: Develop a simple compiler for a toy language.
@@ -93,7 +93,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 ---
 
 
-### Databases
+### 5-Databases
 - **Video Lectures**: [UC Berkeley CS186 (Database Systems) on YouTube](https://www.youtube.com/watch?v=y5IShB9ihds&list=PLhMnuBfGeCDPtyC9kUf_hG_QwjYzZ0Am1)
 - **Reference Book**: "Database Management Systems" by Ramakrishnan
 - **Additional Resources**:
@@ -104,7 +104,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 ---
 
   
-### Computer Networking
+### 6-Computer Networking
 - **Book**: "Computer Networking: A Top-Down Approach"
 - **Focus**: Understand network protocols, layers, and security principles.
 - **Project**: Build a simple network protocol analyzer.
@@ -112,7 +112,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 ---
 
 
-### Distributed Systems
+### 7-Distributed Systems
 - **Book**: "Designing Data-Intensive Applications" by Martin Kleppmann
 - **Video Lectures**: [MIT 6.824 Distributed Systems course on YouTube](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - **Research Papers**: MIT Distributed Systems Research Group publications [here](http://dsrg.pdos.csail.mit.edu/papers/).
