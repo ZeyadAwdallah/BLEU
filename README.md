@@ -119,7 +119,6 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
 - **Project**: Choose one of the following:
   - Develop a real-time analytics platform.
   - Build a scalable data pipeline.
-  - 
 ---
 
 # Supplemental Resources
