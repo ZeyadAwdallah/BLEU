@@ -49,7 +49,17 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
   </a>
 </div>
 
+### 0-Overview & Choose Your Path
+- **Video Lectures**: [Harvard CS50 (Introduction to Computer Science)](https://www.youtube.com/watch?v=3LPJfIKxwWc&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
+- **Books**: "How to Find Fulfilling Work" by Roman Krznaric
+- **Focus**: Explore different paths within computer science, identify your interests, and get a general overview of the field. Search around your passion to find what excites you.
+- **Additional Resources**:
+   - [CS50 Official Website](https://cs50.harvard.edu/)
+   - [Choosing a Career in Tech](https://www.careersintech.io/)
+   - "Designing Your Life" by Bill Burnett & Dave Evans
+- **Project**: Work through CS50 problems and projects to build foundational skills. Choose a project aligned with your interest, and learn how to use Git by pushing your project to GitHub. This will allow you to explore your passion while learning essential programming and version control skills. 
 
+--- 
 
 ### 1-Programming
 - **Books**:
